@@ -1,2 +1,2 @@
 # SimpleSpringSecurityApp
-Простейшее приложение с использованием Spring Security.
+Приложение с использованием JWT футентификации.
